@@ -33,6 +33,53 @@
   <version>3.8.1</version>
   <type>maven-plugin</type>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+
+<dependency>
+
+<groupId>info.cukes</groupId>
+
+<artifactId>cucumber-java</artifactId>
+
+<version>1.2.5</version>
+
+</dependency>
+
+<dependency>
+
+<groupId>info.cukes</groupId>
+
+<artifactId>cucumber-core</artifactId>
+
+<version>1.2.5</version>
+
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
+
+<dependency>
+
+<groupId>info.cukes</groupId>
+
+<artifactId>cucumber-junit</artifactId>
+
+<version>1.2.5</version>
+
+<type>pom</type>
+
+<scope>test</scope>
+
+</dependency>
+<dependency>
+	<groupId>io.cucumber</groupId>
+	<artifactId>cucumber-junit</artifactId>
+	<version>4.7.2</version>
+</dependency>
+<!-- Thanks for using https://jar-download.com -->
+
+
+
     
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
