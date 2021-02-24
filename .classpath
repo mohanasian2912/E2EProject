@@ -24,15 +24,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/mohan/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6.jar" sourcepath="C:/Users/mohan/.m2/repository/com/aventstack/extentreports/5.0.6/extentreports-5.0.6-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="com.aventstack"/>
-			<attribute name="maven.artifactId" value="extentreports"/>
-			<attribute name="maven.version" value="5.0.6"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/mohan/Downloads/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files (1)/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/extentreports-5.0.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

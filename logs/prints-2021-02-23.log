@@ -1,0 +1,7 @@
+11:15:58.283 [TestNG] INFO  resources.base - Successfully Home tests are passed
+21:54:18.726 [main] INFO  resources.base - Successfully Home tests are passed
+21:54:21.691 [main] INFO  resources.base - Successfully Home tests are passed
+21:54:54.656 [TestNG] INFO  resources.base - Browser is initialized
+21:55:02.043 [TestNG] INFO  resources.base - Successfully confirmed the text is present
+21:55:02.703 [TestNG] INFO  resources.base - Succesfully confirmed the test presentation
+21:55:02.828 [TestNG] INFO  resources.base - Succesfully confirmed the header
