@@ -27,8 +27,8 @@ public class base {
 		
 		prop.load(fis);
 		
-		String browsername = System.getProperty("browser");
-		//String browsername = prop.getProperty("browser");
+		//String browsername = System.getProperty("browser");
+		String browsername = prop.getProperty("browser");
 		
 		if(browsername.contains("chrome"))
 		{
